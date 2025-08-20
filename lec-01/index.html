@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>induction-time</title>
+
+    <link rel="stylesheet" href="./index.css">
+</head>
+
+<body>  
+
+    <div>hello i am before the root element</div>
+
+    <div id="root">
+        <!-- this h1 tag is going to be replaced by the content which is present inside "root.render(......)" -->
+        <h1>samarth is here</h1>
+    </div>
+
+    <div>hello i am after the root element</div>
+
+    <!-- printing hello world using javascript dom -->
+
+    <!-- <script>
+        const heading = document.createElement("h1");
+
+        heading.innerHTML = "hello world from javascript";
+
+        const root = document.getElementById("root");
+
+        root.appendChild(heading);
+        
+    </script> -->
+
+
+    <!-- CDN LINKS TO IMPORT REACT IN PROJECT -->
+    <script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script>
+    <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+
+
+    <!-- printing hello world using React -->
+    <script src="./App.js">
+
+    </script>
+
+</body>
+</html>
