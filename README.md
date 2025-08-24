@@ -1,1 +1,68 @@
 
+# ❤️ Namaste React 🙏
+
+### _A hands-on journey through the [Namaste React Live Course](https://namastedev.com/learn/namaste-react?_aff=946684804112) by [Akshay Saini](https://www.linkedin.com/in/akshaymarch7/), Founder of [NamasteDev](https://namastedev.com/?_aff=946684804112). This repository contains and source code from the course._
+
+## 🚀 About the Project
+
+This repository is a curated collection of assignments, and source code from the Namaste React Live Course. It documents the evolution of a React developer from the basics to building production-ready apps like [FoodFire 🍔](https://foodfire-app.netlify.app/).
+
+## 🛠️ Tech Stack
+
+- ⚛️ React.js: A JavaScript library for building the user interface.
+- 🖌️ HTML & CSS: For structuring and styling the application.
+- 📦 Parcel.js: zero configuration build tool for the web.
+
+## 🎻 Prerequisites
+
+Before getting started with the Project, you should have a basic understanding of React.js, JavaScript, HTML and CSS.
+
+
+## 🌱 Project Structure
+
+```bash
+Namaste-React/
+├── Chapter 01 - Inception/
+│   ├── Assignment.md
+│   ├── Theory/
+│   └── Coding/
+│       ├── App.js
+│       └── index.css
+├── Chapter 02 - Igniting our App/
+├── Chapter 03 - Laying the Foundation/
+├── Chapter 04 - Talk is Cheap, show me the code/
+├── Chapter 05 - Let's get Hooked!/
+├── Chapter 06 - Exploring the world/
+├── Chapter 07 - Finding the Path/
+├── Chapter 08 - Let's get Classy/
+├── Chapter 09 - Optimizing our App/
+├── public/
+│   ├── images/
+├── index.html
+└── package.json
+```
+
+## 📚 [_Chapter 01 - Inception_](./lec-01/) (Date: 20-08-2025)
+
+- 💻 [_Source Code_](./lec-01/)
+- 📟📝 _Digital and Handwritten Notes_
+  - 📟 [_Digital Notes of Live Class_](https://bit.ly/Namaste-React-Digital-Chapter01) `Credit` - [Arpan Kesh](https://www.linkedin.com/in/arpan-kesh-687740194/)
+  - 📝[_Hand Written Notes of Live Class_](https://bit.ly/Namaste-React-Chapter01/) `Credit - Ashraya KK`
+
+## 📚 [_Chapter 02 - Igniting our App_](./lec-02-Igniting_our_app/) (Date: 24-08-2025)
+
+- 💻 [_Source Code_](./lec-02-Igniting_our_app/)
+- 📟📝 _Digital and Handwritten Notes_
+  - 📟 [_Digital Notes of Live Class_](https://bit.ly/Namaste-React-Digital-Chapter02) `Credit` - [Arpan Kesh](https://www.linkedin.com/in/arpan-kesh-687740194/)
+  - 📝 [_Hand Written Notes of Live Class_](https://bit.ly/Namaste-React-Chapter02) `Credit - Ashraya KK`
+
+
+
+
+
+
+
+## Acknowledgement
+
+The structure and style of this README is inspired by [Namaste-React](https://github.com/chetannada/Namaste-React) by Chetan Nada.  
+Licensed under the [MIT License](https://github.com/chetannada/Namaste-React/blob/main/LICENSE).
