@@ -1,0 +1,14 @@
+{
+  "name": "lec-02-igniting_our_app",
+  "version": "1.0.0",
+  "description": "This is the second lecture of namaste react",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Samarth Bagul",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  }
+}
