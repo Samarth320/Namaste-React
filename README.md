@@ -1,11 +1,11 @@
 
 # ❤️ Namaste React 🙏
 
-### _A hands-on journey through the [Namaste React Live Course](https://namastedev.com/learn/namaste-react?_aff=946684804112) by [Akshay Saini](https://www.linkedin.com/in/akshaymarch7/), Founder of [NamasteDev](https://namastedev.com/?_aff=946684804112). This repository contains and source code from the course._
+### _A hands-on journey through the [Namaste React Live Course](https://namastedev.com/learn/namaste-react?_aff=946684804112) by [Akshay Saini](https://www.linkedin.com/in/akshaymarch7/), Founder of [NamasteDev](https://namastedev.com/?_aff=946684804112). This repository contains source code from the course._
 
 ## 🚀 About the Project
 
-This repository is a curated collection of assignments, and source code from the Namaste React Live Course. It documents the evolution of a React developer from the basics to building production-ready apps like [FoodFire 🍔](https://foodfire-app.netlify.app/).
+This repository is a curated collection of assignments, and source code from the Namaste React Live Course. It documents the evolution of a React developer from the basics to building production-ready apps.
 
 ## 🛠️ Tech Stack
 
