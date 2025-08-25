@@ -2,13 +2,23 @@
   "name": "lec-02-igniting_our_app",
   "version": "1.0.0",
   "description": "This is the second lecture of namaste react",
-  "main": "index.js",
+  "default": "App.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start":"npx parcel index.html"
   },
   "author": "Samarth Bagul",
   "license": "ISC",
   "devDependencies": {
     "parcel": "^2.15.4"
-  }
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+
+  "browserslist" : [
+       "last 2 versions"
+  ]
+
 }
