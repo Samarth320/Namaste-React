@@ -58,7 +58,13 @@ Namaste-React/
 
 
 
+## 📚 [_Chapter 03 - Laying The Foundation_](./lec-03-Laying_the_foundation/) (Date: 30-08-2025)
 
+- 💻 [_Source Code_](./lec-03-Laying_the_foundation/)
+- 📟📝 _Digital and Handwritten Notes_
+- 📟 [_Digital Notes of Live Class_](https://bit.ly/Namaste-React-Digital-Chapter03) `Credit` - [Arpan Kesh](https://www.linkedin.com/in/arpan-kesh-687740194/)
+  - 📝 [_Hand Written Notes of Live Class_](https://bit.ly/Namaste-React-Chapter03) `Credit - Ashraya KK`
+- [🚀 Live Demo 😍](https://foodfire-chapter03.netlify.app/)
 
 
 
@@ -66,3 +72,4 @@ Namaste-React/
 
 The structure and style of this README is inspired by [Namaste-React](https://github.com/chetannada/Namaste-React) by Chetan Nada.  
 Licensed under the [MIT License](https://github.com/chetannada/Namaste-React/blob/main/LICENSE).
+

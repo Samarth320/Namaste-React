@@ -1,0 +1,17 @@
+{
+  "name": "lec-03-laying_the_foundation",
+  "version": "1.0.0",
+  "description": "this is 3rd lec",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Samarth Bagul",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.15.4",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  }
+}
