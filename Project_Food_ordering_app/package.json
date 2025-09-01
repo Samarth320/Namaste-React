@@ -1,0 +1,20 @@
+{
+  "name": "project_food_ordering_app",
+  "version": "1.0.0",
+  "description": "this is the main project of the series",
+  "scripts": {
+    "start":"parcel index.html",
+    "build":"parcel build index.html",
+    "test": "jest"
+  },
+  "author": "Samarth Bagul",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.15.4",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+    "browserslist" : [
+       "last 2 versions"
+  ]
+}
