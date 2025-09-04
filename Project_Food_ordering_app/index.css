@@ -85,3 +85,12 @@
     gap: 6px;
     padding: 3px;
 }
+
+.filter{
+    margin: 10px;
+    cursor: pointer;
+}
+
+.filter-btn{
+    padding: 5px;
+}
