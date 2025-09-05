@@ -9,7 +9,6 @@ const AppLayout = () => {
     return(
         <div>
 
-
             <Header />
 
             <Body />
