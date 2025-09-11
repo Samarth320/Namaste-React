@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "this is the main project of the series",
   "scripts": {
-    "start":"parcel index.html",
-    "build":"parcel build index.html",
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
     "test": "jest"
   },
   "author": "Samarth Bagul",
@@ -12,9 +12,10 @@
   "dependencies": {
     "parcel": "^2.15.4",
     "react": "^19.1.1",
-    "react-dom": "^19.1.1"
+    "react-dom": "^19.1.1",
+    "react-icons": "^5.5.0"
   },
-    "browserslist" : [
-       "last 2 versions"
+  "browserslist": [
+    "last 2 versions"
   ]
 }
