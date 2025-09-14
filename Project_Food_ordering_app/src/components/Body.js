@@ -1,6 +1,7 @@
 import RestaurantCard from "./RestaurantCard";
 import { useState , useEffect} from "react";
 import Shimmer from "./Shimmer";
+import { Link } from "react-router-dom";
 
 
 const Body = () => {
@@ -12,14 +13,16 @@ const Body = () => {
 
     
     useEffect(()=>{
-        console.log("state variable restaurant data updated" , restaurantData)
-    },[restaurantData])
+        console.log("state variable restaurant data updated" , filterRestaurant)
+    },[filterRestaurant])
 
+
+    // note "https://corsproxy.io/" used as a prefix to api link to bypassed cors issue
 
     const fetchData = async ()=>{
 
       try{
-        const response = await fetch("https://www.swiggy.com/dapi/restaurants/list/v5?lat=18.579343&lng=73.9089168&is-seo-homepage-enabled=true&page_type=DESKTOP_WEB_");
+        const response = await fetch("https://corsproxy.io/https://www.swiggy.com/dapi/restaurants/list/v5?lat=18.579343&lng=73.9089168&is-seo-homepage-enabled=true&page_type=DESKTOP_WEB_");
 
         const transformData = await response.json();
 
@@ -104,7 +107,9 @@ const Body = () => {
                    <div className="res-container">
                         {
                                 filterRestaurant?.map( (data) => (
-                                            <RestaurantCard key={data?.info?.id} cardData={data} />
+                                            <Link to={"/restaurants/"+data.info.id} key={data?.info?.id} className="link-style">
+                                                <RestaurantCard cardData={data} />
+                                            </Link>
                                 ))
                         }
                     </div>
