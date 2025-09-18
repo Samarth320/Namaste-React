@@ -10,3 +10,4 @@
     <li>Use props effectively with destructuring and the spread operator.</li>
     <li>Render all restaurant cards dynamically by mapping through the restaurant data array.</li>
 </ul>
+
