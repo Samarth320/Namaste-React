@@ -66,6 +66,41 @@ Namaste-React/
   - 📝 [_Hand Written Notes of Live Class_](https://bit.ly/Namaste-React-Chapter03) `Credit - Ashraya KK`
 
 
+## 📚 [_Chapter 04 - Talk is Cheap, show me the code_](./Chapter 04 - Talk is Cheap, show me the code/) (Date: 18-09-2025)
+
+- 💻 [_Source Code_][_Project_Food_ordering_app_](../Project_Food_ordering_app/)
+- 📟📝 _Digital and Handwritten Notes_
+  - 📟 [_Digital Notes of Live Class_](https://bit.ly/Namaste-React-Digital-Chapter04) `Credit` - [Arpan Kesh](https://www.linkedin.com/in/arpan-kesh-687740194/)
+  - 📝 [_Hand Written Notes of Live Class_](https://bit.ly/Namaste-React-Chapter04) `Credit - Ashraya KK`
+
+## 📚 [_Chapter 05 - Let's get Hooked!_](./Chapter 05 - Let's get Hooked!/) (Date: 18-09-2025)
+
+- 💻 [_Source Code_][_Project_Food_ordering_app_](../Project_Food_ordering_app/)
+- 📟📝 _Digital and Handwritten Notes_
+  - 📟 [_Digital Notes of Live Class_](https://bit.ly/Namaste-React-Digital-Chapter05) `Credit` - [Arpan Kesh](https://www.linkedin.com/in/arpan-kesh-687740194/)
+  - 📝 [_Hand Written Notes of Live Class_](https://bit.ly/Namaste-React-Chapter05) `Credit - Ashraya KK`
+
+## 📚 [_Chapter 06 - Exploring the world_](./Chapter 06 - Exploring the world/) (Date: 18-09-2025)
+
+- 💻 [_Source Code_][_Project_Food_ordering_app_](../Project_Food_ordering_app/)
+- 📟📝 _Digital and Handwritten Notes_
+  - 📟 [_Digital Notes of Live Class_](https://bit.ly/Namaste-React-Digital-Chapter06) `Credit` - [Arpan Kesh](https://www.linkedin.com/in/arpan-kesh-687740194/)
+  - 📝 [_Hand Written Notes of Live Class_](https://bit.ly/Namaste-React-Chapter06) `Credit - Ashraya KK`
+
+
+## 📚 [_Chapter 07 - Finding the Path_](./Chapter 07 - Finding the Path/) (Date: 18-09-2025)
+
+- 💻 [_Source Code_][_Project_Food_ordering_app_](../Project_Food_ordering_app/)
+- 📟📝 _Digital and Handwritten Notes_
+  - 📟 [_Digital Notes of Live Class_](https://bit.ly/Namaste-React-Digital-Chapter07) `Credit` - [Arpan Kesh](https://www.linkedin.com/in/arpan-kesh-687740194/)
+  - 📝 [_Hand Written Notes of Live Class_](https://bit.ly/Namaste-React-Chapter07) `Credit - Ashraya KK`
+
+## 📚 [_Chapter 08 - Let's get Classy_](./Chapter 07 - Finding the Path/) (Date: 18-09-2025)
+
+- 💻 [_Source Code_][_Project_Food_ordering_app_](../Project_Food_ordering_app/)
+- 📟📝 _Digital and Handwritten Notes_
+  - 📟 [_Digital Notes of Live Class_](https://bit.ly/Namaste-React-Digital-Chapter08) `Credit` - [Arpan Kesh](https://www.linkedin.com/in/arpan-kesh-687740194/)
+  - 📝 [_Hand Written Notes of Live Class_](https://bit.ly/Namaste-React-Chapter08) `Credit - Ashraya KK`
 
 
 ## Acknowledgement
