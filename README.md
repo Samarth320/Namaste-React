@@ -104,7 +104,7 @@ Namaste-React/
 
   ## 📚 [_Chapter 09 - Optimizing our App_](./Chapter%2009%20-%20Optimizing%20our%20App/) (Date: 20-09-2025)
 
-- 💻 [_Source Code_](./Chapter 09 - Optimizing our App/)
+- 💻 [_Source Code_][_Code_](https://github.com/Samarth320/Namaste-React/tree/master/Chapter%2009%20-%20Optimizing%20our%20App)
 - 📟📝 _Digital and Handwritten Notes_
   - 📟 [_Digital Notes of Live Class_](https://bit.ly/Namaste-React-Digital-Chapter08) `Credit` - [Arpan Kesh](https://www.linkedin.com/in/arpan-kesh-687740194/)
   - 📝 [_Hand Written Notes of Live Class_](https://bit.ly/Namaste-React-Chapter08) `Credit - Ashraya KK`
