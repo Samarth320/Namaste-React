@@ -1,32 +1,18 @@
-import { useEffect, useState } from "react";
+
 import Shimmer from "./Shimmer";
 import { useParams } from "react-router";
-import { menuAPI_URL } from "../utils/constant";
 import { IoStarSharp } from "react-icons/io5";
 import { FaLocationDot } from "react-icons/fa6";
 import { MdDeliveryDining } from "react-icons/md";
+import useRestaurantMenu from "../utils/useRestaurantMenu";
 
 
 const RestaurantMenu = ()=>{
 
-    const [resInfo , setResInfo] = useState(null);
-
     const {resId} = useParams();
 
-
-    useEffect( ()=>{
-        fetchMenu(); 
-    },[])
-
-    const fetchMenu = async ()=>{
-
-        const data = await fetch(menuAPI_URL + resId);
-        const jsonFormatted = await data.json();
-
-        setResInfo(jsonFormatted.data);
-        console.log("overall data is",jsonFormatted.data);
-    }
-
+    // Using  custom Hook useRestaurantMenu to fetch the data
+    const resInfo = useRestaurantMenu(resId);
 
     if(resInfo === null) return <Shimmer />
 
